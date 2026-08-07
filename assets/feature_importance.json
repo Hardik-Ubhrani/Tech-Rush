@@ -1,0 +1,17 @@
+{
+    "step": 733,
+    "type": 16,
+    "amount": 1192,
+    "oldbalanceOrg": 1184,
+    "newbalanceOrig": 33,
+    "oldbalanceDest": 943,
+    "newbalanceDest": 1157,
+    "errorBalanceOrig": 740,
+    "errorBalanceDest": 1008,
+    "is_account_drain": 300,
+    "hour_of_day": 0,
+    "Dest_Total_Received_Volume": 1361,
+    "is_Mule_Suspect": 0,
+    "is_high_risk_type": 317,
+    "amount_bracket": 16
+}
